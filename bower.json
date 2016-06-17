@@ -1,6 +1,6 @@
 {
-  "name": "ng-alt",
-  "version": "0.0.10",
+  "name": "ng-alt2",
+  "version": "0.0.11",
   "authors": [
     "Artem I. <2urnix@gmail.com>"
   ],
@@ -9,33 +9,13 @@
     "angular": "~1.4.5",
     "holderjs": "^2.9.3"
   },
-  "main": "src/ngAlt.js",
-  "keywords": [
-    "angular",
-    "angular.js",
-    "angularjs",
-    "ng",
-    "holder",
-    "holder.js",
-    "holderjs",
-    "ng-alt",
-    "ngalt",
-    "alt",
-    "alternative",
-    "placeholder",
-    "replace",
-    "instead",
-    "svg",
-    "image",
-    "ng-src",
-    "src"
-  ],
+  "main": "src/ngAlt2.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/urnix/ng-alt.git"
+    "url": "git://github.com/urnix/ng-alt2.git"
   },
-  "homepage": "https://github.com/urnix/ng-alt",
+  "homepage": "https://github.com/urnix/ng-alt2",
   "ignore": [
     "**/.*",
     "node_modules",
