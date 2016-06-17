@@ -2,7 +2,7 @@
   'use strict';
 
   angular.module('ngAlt2', [])
-    .directive('ngAngularImagePopup', ['$window',
+    .directive('ngImagePopup', ['$window',
       function ($window) {
         return {
           link: link
